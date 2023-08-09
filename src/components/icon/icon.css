@@ -1,0 +1,9 @@
+.icon-container {
+    width: 100px; /* Set the width of the container */
+    height: 100px; /* Set the height of the container */
+  }
+  
+  .icon {
+    width: 100%; /* Make the icon take up the entire container width */
+    height: 100%; /* Make the icon take up the entire container height */
+  }
